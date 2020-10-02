@@ -2,11 +2,18 @@
 
 PacmanJs is a Javascript, HTML and CSS based game that enable you to play with the most charismatic 80's character ever created.
 
+- [How to start](#How-to-start)
+- [Installation](#Installation)
+- [How to play](#How-to-play)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Support](#Support)
+
 
 ## How to start
 <img src="https://github.com/bhavesh1129/Pacman-Game/blob/master/PacmanImage.PNG" width="600" height="500">
 
-## Installation/Execute
+## Installation
 
 Clone the repository and run index.html on your web browser:
 
